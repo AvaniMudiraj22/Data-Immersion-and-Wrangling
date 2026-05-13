@@ -1,0 +1,24 @@
+
+==============================
+DATA DICTIONARY
+==============================
+
+Row ID            : Unique Row Identifier
+Order ID          : Unique Order Identifier
+Order Date        : Date of Order
+Ship Date         : Shipping Date
+Ship Mode         : Shipping Method
+Customer ID       : Unique Customer ID
+Customer Name     : Name of Customer
+Segment           : Customer Segment
+Country           : Country Name
+City              : City Name
+State             : State Name
+Postal Code       : Postal Code
+Region            : Region Name
+Product ID        : Product Identifier
+Category          : Product Category
+Sub-Category      : Product Sub Category
+Product Name      : Name of Product
+Sales             : Sales Amount
+Sales_Category    : High Sales or Low Sales
